@@ -10,16 +10,16 @@
   - [Credits](#credits)
 
 ## Description  
-  a set of prompts that ask you what you want your SVG to look like then create one for you
+  Answer the promts to help you make a SVG
 
 ## Installation
-  npm i
+  express, inquere
 
 ## Tests 
   test
 
 ## Usage 
-  https://drive.google.com/file/d/1aIdYrcngDTEI4DPuMeH4UpjYqzpKOOr4/view
+  https://drive.google.com/file/d/1qIZFsjbhyUZru9H82vUoM1FpToGqUqPb/view
 
 ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -36,8 +36,8 @@ This project is licensed under the MIT license. Click [here](https://choosealice
   amiini44@hotmail.com
 
   ## GitHub  
-  MohamedMH77
+  MohamedH77
 
   ---
-  Last updated: April 28, 2023
+  Last updated: May 2, 2023
   
